@@ -1,0 +1,8 @@
+Customer: Kushi
+Date: cd "c:\Users\Chaithany
+---------------------
+Items	Qty	Price
+Kushi	2	0.00
+Total: 0.00
+---------------------
+
